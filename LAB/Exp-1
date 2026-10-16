@@ -14,5 +14,4 @@ print("Average Scores:", average)
 print("Highest Average Subject:", subjects[np.argmax(average)])
 
 
-Output:
 
